@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551837388099",
+    "project_id": "pushnoti-7e72c",
+    "storage_bucket": "pushnoti-7e72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551837388099:android:1f68debf7dfbe1b60c33f6",
+        "android_client_info": {
+          "package_name": "com.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551837388099-sabk1s77ft9sp2n8g8vg05kraarf4e78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7JqedMHoQYe3MRDwzh3wz_RRi_j2gQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551837388099-sabk1s77ft9sp2n8g8vg05kraarf4e78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
