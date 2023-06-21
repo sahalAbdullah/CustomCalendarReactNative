@@ -3,6 +3,7 @@ import {SafeAreaView, View, Button, StyleSheet} from 'react-native';
 import Calendar from './components/Calendar';
 import {PermissionsAndroid} from 'react-native';
 import {NativeBaseProvider} from 'native-base';
+import Calendars from './components/Calendars';
 
 import {
   requestUserPermission,
@@ -22,7 +23,8 @@ function App(): JSX.Element {
   return (
     <SafeAreaView>
       <View style={styles.mainContainer}>
-        <Calendar />
+        {/* <Calendar /> */}
+        <Calendars />
       </View>
     </SafeAreaView>
   );

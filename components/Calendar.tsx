@@ -5,7 +5,6 @@ import {monthDates, year, month} from '../utils/month';
 import MainHeader from './MainHeader';
 const Calendar = () => {
   const today = new Date();
-
   const todayMonth = today.getMonth() + 1; // Months are zero-based, so add 1
   const todayDate = today.getDate() + 6;
   const todayYear = today.getFullYear();
